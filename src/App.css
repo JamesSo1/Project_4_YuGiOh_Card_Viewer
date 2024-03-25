@@ -1,0 +1,26 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.whole-page h1 {
+  font-size: 35px;
+  margin: 0;
+  font-family: "Orbitron", sans-serif;
+}
+
+.ban-list ul {
+  height: 75px;
+  overflow-y: auto;
+}
+
+.card-img {
+  width: 300px;
+  height: 400px;
+}
+
+.fetch-btn {
+  display: block;
+  margin: 10px auto 0 auto;
+}
